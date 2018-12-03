@@ -17,3 +17,4 @@ Happy Open Sourcing!
 - [Quick Sort](algorithm/quick_sort)
 - [binomialCoefficient](algorithms/binomialCoefficient)
 - [Insertion Sort](algorithms/insertion_sort)
+- [Floyd Warshall Algorithm](algorithms/floyd_warshall)
